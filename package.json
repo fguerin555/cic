@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "core-js": "^3.43.0",
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-app-polyfill": "^3.0.0",
@@ -16,6 +17,7 @@
     "react-responsive": "^10.0.1",
     "react-router-dom": "^6.30.0",
     "react-scripts": "5.0.1",
+    "regenerator-runtime": "^0.14.1",
     "styled-components": "^6.1.19",
     "web-vitals": "^2.1.4"
   },
@@ -35,9 +37,9 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
+      "Chrome 114",
+      "Firefox 115",
+      "Safari 13.1"
     ],
     "development": [
       "last 1 chrome version",
