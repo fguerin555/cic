@@ -1,0 +1,52 @@
+.CuricIrma img {
+  object-fit: contain;
+  display: flex;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  width: 100vw; /* Largeur de chaque image */
+  /* height: 80vw; */
+}
+.CuricFred img {
+  object-fit: contain;
+  display: flex;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  width: 100vw; /* Largeur de chaque image */
+  /* height: 80vw;  */
+}
+.LinksFred {
+  margin-left: 20px;
+  font-family: "Montserrat-Medium", Arial, sans-serif;
+  color: black;
+  font-size: 30px;
+}
+
+.CuricVanessa img {
+  object-fit: contain;
+  display: flex;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  width: 100vw; /* Largeur de chaque image */
+  /* height: 80vw;  */
+}
